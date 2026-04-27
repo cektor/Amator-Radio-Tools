@@ -7,9 +7,14 @@
 
 This Privacy Policy describes how Amateur Radio Tools Pro ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application (the "App"). We are committed to protecting your privacy and ensuring transparency about our data practices.
 
+**🔒 PRIVACY GUARANTEE: This app does NOT collect, store, transmit, share, or record ANY user data. Your privacy is 100% protected.**
+
 Amateur Radio Tools Pro is designed specifically for amateur radio operators and provides various tools including DMR/NXDN ID lookup, APRS tracking, propagation forecasting, antenna calculations, digital logbook, morse code tools, band plans, QTH locator conversion, VSWR calculations, DX cluster monitoring, and beacon tracking.
 
 ## Information We Collect
+
+### ⚠️ IMPORTANT NOTICE: NO DATA COLLECTION
+**We want to be absolutely clear: Amateur Radio Tools Pro does NOT collect, store, transmit, or share ANY user data whatsoever. This app operates with complete privacy protection.**
 
 ### 1. Personal Information
 We do **NOT** collect any personally identifiable information (PII) such as:
@@ -86,12 +91,18 @@ We do **NOT** collect any personally identifiable information (PII) such as:
 ## Data Usage and Sharing
 
 ### What We Do NOT Do
+- **ZERO DATA COLLECTION:** We absolutely do not collect ANY user data
+- **ZERO DATA STORAGE:** We do not store any user information on our servers
+- **ZERO DATA SHARING:** We do not share, sell, or transmit any user data to anyone
+- **ZERO DATA TRACKING:** We do not track user behavior, usage patterns, or analytics
 - **No Data Collection:** We do not collect, store, or analyze user behavior data
 - **No Analytics:** We do not use analytics services or tracking tools
 - **No Advertising:** We do not display ads or use advertising networks
 - **No Third-Party Sharing:** We do not share any user data with third parties
 - **No User Profiles:** We do not create user accounts or profiles
 - **No Cloud Storage:** We do not store any user data on remote servers
+- **No Background Data:** We do not collect data when the app is not in use
+- **No Device Fingerprinting:** We do not collect device identifiers or create device profiles
 
 ### Third-Party Services
 We interact with the following external APIs solely to provide amateur radio services:
